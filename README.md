@@ -1,4 +1,4 @@
-# سلام! 👋 من [اسم شما] هستم
+# سلام! 👋 من مهرزاد هستم
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](لینک-لینکدین-شما)
