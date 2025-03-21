@@ -33,7 +33,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mehrzero&show_icons=true&تم=تیره&count_private=true&hide=contribs&include_all_commits=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrzero&layout=compact&تم=تیره&hide=html,css"/>
 </div>
-
+<!-- 
 ## 🛡️ پروژه های امنیتی
 <table>
   <tr>
@@ -53,6 +53,9 @@
     </td>
   </tr>
 </table>
+-->
+
+<!--
 
 ### پروژه های هوش مصنوعی
 <table>
@@ -78,7 +81,7 @@
 - [«بهینه‌سازی عملکرد شبکه با الگوریتم‌های Low-Level»](لینک-مقاله) - کنفرانس فناوری اطلاعات ۲۰۲۴
 
 ## 🌐 ارتباط از طریق پلتفرم های مختلف
-
+هدر پویا -->
 <div align="center">
   <!-- وبسایت شخصی با افکت نئون -->
   <a href="https://yourwebsite.com" target="_blank">
