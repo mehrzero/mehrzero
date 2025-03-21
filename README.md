@@ -67,7 +67,7 @@
   </a>
   
   <!-- تلگرام با افکت شیشه ای -->
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/mehrzero" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&color=26A5E4"/>
   </a>
   
