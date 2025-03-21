@@ -30,8 +30,8 @@
 
 ## 📊 آمارهای تخصصی
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&تم=تیره&count_private=true&hide=contribs&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&تم=تیره&hide=html,css"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mehrzero&show_icons=true&تم=تیره&count_private=true&hide=contribs&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrzero&layout=compact&تم=تیره&hide=html,css"/>
 </div>
 
 ## 🛡️ پروژه های امنیتی
