@@ -72,7 +72,7 @@
   </a>
   
   <!-- اینستاگرام با گرادیانت -->
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/mehrzero?igsh=aXR4c3E0MXF3OGN6" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=E4405F"/>
   </a>
 </div>
