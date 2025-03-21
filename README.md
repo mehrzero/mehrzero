@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammad%20Developer&fontSize=50&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mehrzero%20Developer&fontSize=50&fontAlignY=35&animation=twinkling"/>
 </div>
 
 <!-- Dynamic Badges -->
