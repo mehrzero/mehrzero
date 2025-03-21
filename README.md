@@ -1,16 +1,32 @@
-## Hi there 👋
+# سلام! 👋 من [اسم شما] هستم
 
-<!--
-**mehrzero/mehrzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](لینک-لینکدین-شما)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](لینک-توییتر-شما)
 
-Here are some ideas to get you started:
+**یک توسعه دهنده نرم افزار علاقمند به دنیای تکنولوژی** 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ فناوری ها و ابزارها
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,git,github,docker,postgres,redis,aws,linux,vscode" />
+</p>
+
+## 📈 آمارهای گیتهاب
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&تم=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&تم=radical"/>
+</div>
+
+## 🔥 پروژه های اخیر
+
+- [پروژه نمونه 1](لینک-پروژه) - توضیحات کوتاه درباره پروژه 🚩
+- [پروژه نمونه 2](لینک-پروژه) - توضیحات کوتاه درباره پروژه ⚡
+- [پروژه نمونه 3](لینک-پروژه) - توضیحات کوتاه درباره پروژه 🎯
+
+## 📫 چگونه با من ارتباط برقرار کنید
+
+- ایمیل: youremail@domain.com
+- وبسایت شخصی: [yourwebsite.com](https://yourwebsite.com)
+- تلگرام: [@username](https://t.me/username)
