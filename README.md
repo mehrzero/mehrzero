@@ -22,25 +22,6 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-F7931A?logo=internet-explorer&logoColor=black)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=white)
 
-### پروژه های هوش مصنوعی
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Smart Chat Assistant</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&تم=vision-friendly-تیره">
-      <p>دستیار هوشمند چت با قابلیت پردازش زبان طبیعی</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface">
-    </td>
-    <td width="50%">
-      <h3>👁️ Image Recognition System</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=image-recognition&تم=تیره">
-      <p>سیستم تشخیص تصاویر با دقت 98% بر پایه CNN</p>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv">
-    </td>
-  </tr>
-</table>
 ### 🔒 امنیت شبکه
 ![Metasploit](https://img.shields.io/badge/-Metasploit-F7931A?logo=metasploit&logoColor=black)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?logo=nmap&logoColor=white)
@@ -72,7 +53,25 @@
     </td>
   </tr>
 </table>
-
+### پروژه های هوش مصنوعی
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Smart Chat Assistant</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&تم=vision-friendly-تیره">
+      <p>دستیار هوشمند چت با قابلیت پردازش زبان طبیعی</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface">
+    </td>
+    <td width="50%">
+      <h3>👁️ Image Recognition System</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=image-recognition&تم=تیره">
+      <p>سیستم تشخیص تصاویر با دقت 98% بر پایه CNN</p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv">
+    </td>
+  </tr>
+</table>
 ## 📚 مقالات و تحقیقات
 - [«بررسی آسیب‌پذیری‌های پروتکل TCP/IP»](لینک-مقاله) - ژورنال امنیت شبکه ۲۰۲۳
 - [«بهینه‌سازی عملکرد شبکه با الگوریتم‌های Low-Level»](لینک-مقاله) - کنفرانس فناوری اطلاعات ۲۰۲۴
