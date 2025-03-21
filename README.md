@@ -58,12 +58,28 @@
 - [«بررسی آسیب‌پذیری‌های پروتکل TCP/IP»](لینک-مقاله) - ژورنال امنیت شبکه ۲۰۲۳
 - [«بهینه‌سازی عملکرد شبکه با الگوریتم‌های Low-Level»](لینک-مقاله) - کنفرانس فناوری اطلاعات ۲۰۲۴
 
-## 📡 آزمایشگاه شبکه
-```mermaid
-graph TD
-    A[Client] --> B{Firewall}
-    B --> C[Router]
-    C --> D[Switch]
-    D --> E[IDS/IPS]
-    E --> F[Server Cluster]
-    F --> G[Database]
+## 🌐 ارتباط از طریق پلتفرم های مختلف
+
+<div align="center">
+  <!-- وبسایت شخصی با افکت نئون -->
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&color=00FF88"/>
+  </a>
+  
+  <!-- تلگرام با افکت شیشه ای -->
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&color=26A5E4"/>
+  </a>
+  
+  <!-- اینستاگرام با گرادیانت -->
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=E4405F"/>
+  </a>
+</div>
+
+<!-- فوتر پیشرفته -->
+<div align="center" style="margin-top: 30px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling&fontSize=20"/>
+  <p>با قدرت ساخته شده با ❤️ و ☕</p>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=ff69b4&label=پروفایل+VIEWS"/>
+</div>
